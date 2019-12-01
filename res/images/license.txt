@@ -1,0 +1,7 @@
+fighters.png by Nick (CC-BY 3.0)
+terrain.png by armisius (https://opengameart.org/users/armisius) (CC-BY 3.0)
+bullets by "Master484" (Public Domain - https://opengameart.org/content/bullet-collection-1-m484 )
+
+sounds
+gun by bart
+explosions by  by Unnamed (Viktor.Hahn@web.de), is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License. http://creativecommons.org/licenses/by-sa/3.0/
